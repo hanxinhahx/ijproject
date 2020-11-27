@@ -93,7 +93,6 @@ public class JDBCUtil {
             }
 
         } catch (Exception e) {
-            System.out.println("错位于");
             e.printStackTrace();
         }
     }
