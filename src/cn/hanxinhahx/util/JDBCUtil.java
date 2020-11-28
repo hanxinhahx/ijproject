@@ -4,7 +4,7 @@ import netscape.javascript.JSObject;
 
 import java.sql.*;
 import java.util.Random;
-
+//更新
 public class JDBCUtil {
     private static String url="jdbc:mysql://localhost:3306/test";
     private static String user="root";
