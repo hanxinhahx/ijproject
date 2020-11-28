@@ -93,6 +93,7 @@ public class JDBCUtil {
             }
 
         } catch (Exception e) {
+            System.out.println("失败");
             e.printStackTrace();
         }
     }
